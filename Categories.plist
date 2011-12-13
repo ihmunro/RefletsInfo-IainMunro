@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<dict>
+			<key>slug</key>
+			<string>osef</string>
+			<key>name</key>
+			<string>On s&apos;en fout</string>
+			<key>url</key>
+			<string>http://reflets.info/category/on-sen-fout/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>home</string>
+			<key>url</key>
+			<string>http://reflets.info/feed/</string>
+			<key>name</key>
+			<string>Accueil</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>economy</string>
+			<key>name</key>
+			<string>Economie</string>
+			<key>url</key>
+			<string>http://reflets.info/category/economie/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>tribunes</string>
+			<key>name</key>
+			<string>Tribunes</string>
+			<key>url</key>
+			<string>http://reflets.info/category/tribunes/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>world</string>
+			<key>name</key>
+			<string>Monde</string>
+			<key>url</key>
+			<string>http://reflets.info/category/monde/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>france</string>
+			<key>name</key>
+			<string>France</string>
+			<key>url</key>
+			<string>http://reflets.info/category/france/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>technos</string>
+			<key>name</key>
+			<string>Technos</string>
+			<key>url</key>
+			<string>http://reflets.info/category/technos/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>politic</string>
+			<key>name</key>
+			<string>Politique</string>
+			<key>url</key>
+			<string>http://reflets.info/category/politique/feed/</string>
+		</dict>
+		<dict>
+			<key>slug</key>
+			<string>OIl and Gas News</string>
+			<key>name</key>
+			<string>OIl and Gas News</string>
+			<key>url</key>
+			<string>http://pipes.yahoo.com/pipes/pipe.run?_id=41f65d39a87b181a4c409ea87ad00641&amp;_render=rss</string>
+		</dict>
+	</array>
+</dict>
+</plist>
